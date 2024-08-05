@@ -1,0 +1,6 @@
+Data/*
+dist/*
+*/.conda/*
+*/build/*
+Forecasts/*
+pretrainedModels/*
