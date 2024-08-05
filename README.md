@@ -1,7 +1,6 @@
 ## Paper
 
-The project write up can be found in project.pdf, this may not open in various browsers as the PDF is too large if this is the case try re-access it from chrome.
-
+The project write up can be found in project.pdf.
 
 ## Installation
 
