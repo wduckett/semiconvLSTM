@@ -1,3 +1,7 @@
+## Data
+
+The dataset is too large to store on GitHub, please email me at wduckett@uchicago.edu for the dataset.  
+
 ## Paper
 
 The project write up can be found in project.pdf.
